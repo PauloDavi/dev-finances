@@ -19,6 +19,8 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
+- [Demo](https://paulodavi.github.io/dev-finances/index.html)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
